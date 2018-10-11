@@ -2,7 +2,7 @@
 
 <p align="center"><b>IEEE Fall 2018 Programming Tools Workshop</b></p>
 
-<p align="center"><i> By Johnny Zhang and Emily Nguyen</i></p>
+<p align="center"><i> By Johnny Zhang and Antony Nguyen</i></p>
 
 <p align="center"> 
 This is the repository for the IEEE UC San Diego Branch's workshop for Git and Unix.
@@ -22,7 +22,7 @@ This will contain all of the resources for the event taking place on October 11,
 9. Acknowledgements
 
 ## Prerequisites
-- Terminal. If you are on MacOS or Linux, this will come with the operating system. For Windows Users, we have a guide below.
+- Terminal. If you are on MacOS or Linux, this will come with the operating system. For Windows Users, we have a guide attached.
 - Git installed
 - Text editor (Vim, Atom, VS Code)
 
@@ -45,9 +45,7 @@ Event happening on October 11th, 2018
 
 ## Authors
 - [Johnny Zhang](https://github.com/johnnyzhang123)
-- [Emily Nguyen](https://github.com/eminguyen)
-
-## License
+- [Antony Nguyen](https://github.com/eminguyen)
 
 ## Acknowledgements
-Volunteer for us to make it on this list!
+- [Ysabelle Lam for taking pictures at the event](https://github.com/ysabellelam)
