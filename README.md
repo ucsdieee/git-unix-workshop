@@ -11,15 +11,14 @@ This will contain all of the resources for the event taking place on October 11,
 
 ## Table of Contents
 
-1. Prerequisites
-2. Installation Guide
-3. Important Links
-4. Presentation Slides
-5. Handouts
-6. Event Statistics
-7. Authors
-8. License
-9. Acknowledgements
+1. [Prerequisites](https://github.com/ucsdieee/git-unix-workshop#prerequisites)
+2. [Installation Guide](https://github.com/ucsdieee/git-unix-workshop#installation-guide)
+3. [Important Links](https://github.com/ucsdieee/git-unix-workshop#important-links)
+4. [Presentation Slides](https://github.com/ucsdieee/git-unix-workshop#presentation-slides)
+5. [Handouts](https://github.com/ucsdieee/git-unix-workshop#handouts)
+6. [Event Statistics](https://github.com/ucsdieee/git-unix-workshop#event-statistics)
+7. [Authors](https://github.com/ucsdieee/git-unix-workshop#authors)
+8. [Acknowledgements](https://github.com/ucsdieee/git-unix-workshop#acknowledgements)
 
 ## Prerequisites
 - Terminal. If you are on MacOS or Linux, this will come with the operating system. For Windows Users, we have a guide attached.
@@ -35,6 +34,7 @@ This will contain all of the resources for the event taking place on October 11,
 ## Presentation Slides
 Slides are available in PDF format in the repository
 - Link to slides in Google Slides format is available here
+
 
 ## Handouts
 - Unix Reference Guide
